@@ -48,7 +48,7 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 
     ABOUT_TXT = """<b>╭───────────⍟
 • ᴍy ɴᴀᴍᴇ : {}
-• ᴜᴘᴅᴀᴛᴇꜱ : <a href=https://t.me/PBX1_BOTS>ᴋᴘꜱ ʙᴏᴛꜱ</a>
+• ᴜᴘᴅᴀᴛᴇꜱ : <a href=https://t.me/PBX1_BOTS>ᴘʙx𝟷 ʙᴏᴛs</a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
